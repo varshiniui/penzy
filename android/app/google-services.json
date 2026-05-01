@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "601250993481",
+    "firebase_url": "https://stationaryapp-36116-default-rtdb.firebaseio.com",
+    "project_id": "stationaryapp-36116",
+    "storage_bucket": "stationaryapp-36116.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601250993481:android:3778d1d5a37e0000423698",
+        "android_client_info": {
+          "package_name": "com.example.animation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNQcvNUjNF_xgk6c8SYoQf6lPP7J2QMIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601250993481:android:465ca340ca9a42c1423698",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNQcvNUjNF_xgk6c8SYoQf6lPP7J2QMIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601250993481:android:b6aa911917e13dbc423698",
+        "android_client_info": {
+          "package_name": "com.example.stationery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNQcvNUjNF_xgk6c8SYoQf6lPP7J2QMIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
